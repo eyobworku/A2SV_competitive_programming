@@ -35,3 +35,11 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/CodeForces/A
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/CodeForces/Less_or_Equal.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/CodeForces/Number_of_Smaller.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/CodeForces/Remove_Smallest.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Range_Sum_Query_-_Immutable.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Range_Sum_Query_2D_-_Immutable.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Running_Sum_of_1d_Array.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Find_the_Middle_Index_in_Array.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Shifting_Letters_II.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Subarray_Sums_Divisible_by_K.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Product_of_Array_Except_Self.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Corporate_Flight_Bookings.py
