@@ -22,7 +22,8 @@ fi
 url_prefix="https://github.com/eyobworku/A2SV_competitive_programming/blob/main/$1"
 
 # Append each file name to the URL prefix and append it to the text file
-for file in "$1"/*; do
+#for file in "$1"/*; do
+find "$1" -type f -mtime -1 -print0 | while IFS= read -r -d '' file; do
     # Get the file name without the path
     file_name=$(basename "$file")
 
