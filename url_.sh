@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Check if the correct number of arguments is provided
-if [ "$#" -ne 2 ]; then
-    echo "Usage: $0 <folder_path> <output_text_file>"
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 <folder_path> <output_text_file> <time_range>"
+    echo "Time range format: '+/-n' (where n is the number of days)"
     exit 1
 fi
 
@@ -23,7 +24,9 @@ url_prefix="https://github.com/eyobworku/A2SV_competitive_programming/blob/main/
 
 # Append each file name to the URL prefix and append it to the text file
 #for file in "$1"/*; do
-find "$1" -type f -mtime -1 -print0 | while IFS= read -r -d '' file; do
+#./script.sh folder output.txt -60 will find files modified within the last 60 minutes.
+#find "$1" -type f -mtime -1 -print0 | while IFS= read -r -d '' file; do
+find "$1" -type f -mmin "$3" -print0 | while IFS= read -r -d '' file; do
     # Get the file name without the path
     file_name=$(basename "$file")
 
