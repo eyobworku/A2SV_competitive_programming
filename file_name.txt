@@ -1,0 +1,12 @@
+Simplify Path
+Evaluate Reverse Polish Notation
+Score of parenthesis
+Number of recent calls
+Implement stack using queues
+Time needed to buy tickets
+Reveal cards in increasing order 
+Daily temperatures
+Next Greater Element II
+Min stack
+Sum of Subarray minimums
+132 Pattern
