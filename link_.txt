@@ -94,3 +94,12 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Lon
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Permutation_in_String.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Window_Substring.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximize_the_Confusion_of_an_Exam.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Count_Number_of_Nice_Subarrays.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Fruit_Into_Baskets.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Replace_the_Substring_for_Balanced_String.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Size_Subarray_Sum.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Erasure_Value_.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Points_You_Can_Obtain_from_Cards.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Consecutive_Cards_to_Pick_Up.py
