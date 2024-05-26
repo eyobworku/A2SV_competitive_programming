@@ -118,3 +118,7 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Pas
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Decode_String.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/k-th_symbol_grammer.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Power_of_three.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Lemonade_Change.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Element_After_Decreasing_and_Rearranging.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Difference_Between_Largest_and_Smallest_Value_in_3_Moves.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Increasing_Triplet_Subsequence.py
