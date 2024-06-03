@@ -122,3 +122,9 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Lem
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Element_After_Decreasing_and_Rearranging.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Difference_Between_Largest_and_Smallest_Value_in_3_Moves.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Increasing_Triplet_Subsequence.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Subarray_Sum_Equals_K.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Score_After_Splitting_a_String_.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Next_Greater_Element_I.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Dota2_Senate.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Fibonacci_Number.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Pow(x,n).py
