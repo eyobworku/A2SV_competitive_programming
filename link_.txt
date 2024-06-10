@@ -141,5 +141,14 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Low
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Validate_Binary_Search_Tree.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Binary_Tree_Level_Order_Traversal.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Binary_Tree_Right_Side_View.py
-https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Binary_Tree_Zigzag_Level_Order_Traversal	.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Binary_Tree_Zigzag_Level_Order_Traversal.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Difference_Between_Node_and_Ancestor.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Rabbits_in_Forest.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Number_of_Arrows_to_Burst_Balloons.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Moves_to_Reach_Target_Score.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Patching_Array.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Longest_Palindrome.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Add_To_Make_Parentheses_Valid.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Break_a_palindrome.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Max_Increase_To_Keep_City_Skyline.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimize_Maximum_of_Array.py
