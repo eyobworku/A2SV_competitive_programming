@@ -152,3 +152,14 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Min
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Break_a_palindrome.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Max_Increase_To_Keep_City_Skyline.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimize_Maximum_of_Array.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Valid_Triangle_Number.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Combinations.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Permutations.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Subsets.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Subsets_II.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Combination_Sum.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_width_of_a_binary_tree.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Letter_Combinations_of_a_Phone_Number.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Combination_Sum_II.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Binary_Subarrays_With_Sum.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Car_Pooling.py
