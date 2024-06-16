@@ -163,3 +163,16 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Let
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Combination_Sum_II.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Binary_Subarrays_With_Sum.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Car_Pooling.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Maximum_Sum_Obtained_of_Any_Permutation.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Number_of_Submatrices_That_Sum_to_Target.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Sum_of_Absolute_Differences_in_a_Sorted_Array.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Make_Sum_Divisible_by_P.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Trapping_Rain_Water.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Put_Marbles_in_Bags.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Word_Search.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Find_Smallest_Letter_Greater_Than_Target.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Sqrt(x).py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Find_Minimum_in_Rotated_Sorted_Array_.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Capacity_To_Ship_Packages_Within_D_Days.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Koko_Eating_Bananas.py
