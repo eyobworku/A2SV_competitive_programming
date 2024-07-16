@@ -53,3 +53,11 @@ https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Sum
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Detonate_the_Maximum_Bombs.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Average_of_Levels_in_Binary_Tree.py
 https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Keys_and_Rooms.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Throne_Inheritance.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Count_Sub_Islands.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Sum_of_Nodes_with_Even-Valued_Grandparent.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Operations_on_Tree.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Minimum_Time_to_Collect_All_Apples_in_a_Tree.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Shortest_Path_in_Binary_Matrix.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/01_Matrix.py
+https://github.com/eyobworku/A2SV_competitive_programming/blob/main/LeetCode/Shortest_Path_to_Get_All_Keys.py
